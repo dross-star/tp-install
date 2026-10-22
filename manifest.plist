@@ -11,7 +11,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://dross-star.github.io/tp-install/TeleprompterStudio.ipa</string>
+          <string>https://cdn.jsdelivr.net/gh/dross-star/tp-install@main/TeleprompterStudio.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
